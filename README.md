@@ -74,4 +74,10 @@ This repository supports the applied analysis developed for the MBA in Data Scie
 
 ## License
 
-No license has been specified yet. Until one is added, all rights remain with the repository author.
+This project is released under the [MIT License](LICENSE).
+
+The MIT License applies to the project's notebooks, source code, and
+documentation. The files under `data/` may contain source data subject to
+separate ownership, privacy, confidentiality, or third-party usage
+restrictions. Users must verify that they have the right to access and reuse
+that data before redistributing it.
